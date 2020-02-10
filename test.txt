@@ -2,3 +2,5 @@ hej
 det her
 er en 
 test
+farvel
+hej hej
